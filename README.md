@@ -1,4 +1,4 @@
-## MixItUp - A CSS3 and jQuery Filter & Sort Plugin
+## MixItUp - A CSS3 and jQuery Filter & Sort Plugin [![Kite](https://usekite.com/live-demo-button.png)](https://usekite.com/deploy)
 
 ### What Is MixItUp?
 
